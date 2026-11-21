@@ -1,0 +1,22 @@
+# HAProxy domain to backend mapping (consolidated)
+# Format: domain backend_name
+pihole.lcs.ai pihole_lcs_ai_backend
+photo.lcs.ai photoprism_backend
+voice.lcs.ai voice_gateway
+caprover.lcs.ai caprover_backend
+n8n.lcs.ai n8n_backend
+nextcloud.lcs.ai nextcloud_backend
+next.lcs.ai nextcloud_backend
+chat.lcs.ai chat_backend
+hal.lcs.ai hal_voice_http_only
+sal.lcs.ai sal_backend
+webmin.lcs.ai webmin_backend
+nas.lcs.ai nas_backend
+ollama.lcs.ai ollama_backend
+speech.lcs.ai speech_backend
+accuterm.lcs.ai accuterm_backend
+homeassistant.lcs.ai homeassistant_backend
+ha.lcs.ai homeassistant_backend
+ham.lcs.ai ham_backend
+dash.lcs.ai dash_lcs_ai_backend
+vbox.lcs.ai voicebox_backend
